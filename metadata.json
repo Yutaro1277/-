@@ -1,5 +1,5 @@
 {
-  "name": "MinuteMaestro AI",
+  "name": "汎用型議事録アプリ",
   "description": "A versatile meeting minutes application that uses Gemini Live to transcribe and summarize long meetings in real-time.",
   "requestFramePermissions": [
     "microphone"
